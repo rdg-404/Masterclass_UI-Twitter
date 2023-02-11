@@ -7,7 +7,7 @@ import { Tweet } from './components/Tweet'
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
     <div>
-    <Tweet user="Rodrigo">
+    <Tweet user="Rodrigo" likes={3}>
       hello
     </Tweet>
     <Tweet user="Diego">

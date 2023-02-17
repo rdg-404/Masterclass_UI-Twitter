@@ -4,9 +4,11 @@ import './global.css'
 
 
 import { Tweet } from './components/Tweet'
-import { Sidebar } from './components/SideBar'
+import { Sidebar } from './components/Sidebar'
 import { Header } from './components/Header'
 import { Separator } from './components/Separator'
+import { RouterProvider } from 'react-router-dom'
+import { router } from './routes'
 
 const Tweets = [
   "Meu primeiro tweet",
@@ -21,7 +23,7 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
       <div className="content">
         <main className="timeline">
           <Header title="Home"/>
-
+          <RouterProvider router={router} />
           <form className='new-tweet-form'>
             <label htmlFor="tweet">
               <img src="http://github.com/rdg-404.png" alt="Rodrigo Paiva" />

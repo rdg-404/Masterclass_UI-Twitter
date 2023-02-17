@@ -2,6 +2,9 @@ import { Header } from "../components/Header"
 import { Separator } from "../components/Separator"
 import { Tweet } from "../components/Tweet"
 
+import './Status.css'
+
+
 const Answers = [
   'Concordo...',
   'Olha, faz sentido',

@@ -6,16 +6,13 @@ import { Tweet } from "../components/Tweet"
 import './Status.css'
 
 
-
-
-
 export function Status() {
 
   const [newAnswer, setNewAnswer] = useState('') //para limpar a textarea
   const [answers, setAnswers] = useState([
-    'wswdwdw',
-    'Olha, faz sentido',
-    'Gostei do seu perfil!'
+    'Nice Job!!!',
+    'LOL',
+    "You're sure"
   ])
 
   function createNewAnswer(event: FormEvent) {
@@ -30,11 +27,7 @@ export function Status() {
 
     <main className="status">
         <Header title="Tweet"/>
-
-
-
           <Tweet content="    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae dignissimos maxime quae, id tempora et cum unde obcaecati commodi neque distinctio nisi blanditiis assumenda optio nulla ea excepturi, similique nemo."/>
-
 
           <Separator/>
 

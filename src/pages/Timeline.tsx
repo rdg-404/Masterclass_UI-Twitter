@@ -12,9 +12,9 @@ export function Timeline() {
 
   const [newTweet, setNewTweet] = useState('') //para limpar a textarea
   const [tweets, setTweets] = useState([
-    "Meu primeiro tweet",
-    "Deu certo",
-    "Hello world"
+    "sending...",
+    "New Tweet",
+    "Hello world!"
   ])
 
   function createNewTweet(event: FormEvent) {

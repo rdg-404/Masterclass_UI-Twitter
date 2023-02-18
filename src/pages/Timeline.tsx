@@ -10,6 +10,7 @@ let newTweet = ''
 
 export function Timeline() {
 
+  const [newTweet, setNewTweet] = useState('') //para limpar a textarea
   const [tweets, setTweets] = useState([
     "Meu primeiro tweet",
     "Deu certo",
@@ -20,6 +21,7 @@ export function Timeline() {
     event.preventDefault() //impede o envio do formulario
 
     setTweets([newTweet, ...tweets])
+    setNewTweet('')
     
   }
 
@@ -34,8 +36,9 @@ export function Timeline() {
               <textarea 
                 id="tweet" 
                 placeholder="What's happening?"
+                value={newTweet}
                 onChange={(event) => {
-                  newTweet = event.target.value ///onchange pega o valor atual digitado pelo user
+                  setNewTweet(event.target.value) ///onchange pega o valor atual digitado pelo user
                 }}
                 />
             </label>

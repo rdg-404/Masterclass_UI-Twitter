@@ -3,7 +3,7 @@ Layout figma [here](https://www.figma.com/file/4JXgzLf4GpIuvV6GGXNwiN/Twitter-UI
 
 
 
-* Fluxo de renderização:
+* Fluxo de renderização: <br><br><br>
 
 - 1 Toda vez que alteramos o estado de um componente, TODO componente é renderizado
 
@@ -12,8 +12,8 @@ Layout figma [here](https://www.figma.com/file/4JXgzLf4GpIuvV6GGXNwiN/Twitter-UI
 - 3 Toda vez que alguma das suas propriedades mudarem
 
 
-
-* Algoritmo de reconciliação
+<br><br>
+**Algoritmo de reconciliação<br><br>
 
 - 1 Cria em memoria a nova versao do HTML de componente
 

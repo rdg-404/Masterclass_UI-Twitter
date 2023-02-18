@@ -13,7 +13,7 @@ Layout figma [here](https://www.figma.com/file/4JXgzLf4GpIuvV6GGXNwiN/Twitter-UI
 
 
 <br><br>
-**Algoritmo de reconciliação<br><br>
+* Algoritmo de reconciliação<br><br>
 
 - 1 Cria em memoria a nova versao do HTML de componente
 

@@ -1,6 +1,7 @@
 # Template Twitter
 Projeto desenvolvido durante a masterclass, disponibilizada pela Rocketseat.
 
+<br><br>
 ## Como executar a aplicação ⚙️
 
 - Executar os seguintes comandos...
@@ -14,27 +15,28 @@ Projeto desenvolvido durante a masterclass, disponibilizada pela Rocketseat.
   npm run dev
 ```
 - Para executar a aplicação
+<br><br>
 
 
 ## O que foi desenvolvido 🚀
 Página inicial do twitter, página de responder tweets, além da versão mobile 
 
-- Página inicial (Versão desktop)
+<h3 align="center">Página inicial (Versão desktop)</h3>
 
 <img src="./assets/desktop.png"/>
 
-- Enviando Tweet... (Versão mobile)
+<h3 align="center">Enviando Tweet... (Versão mobile)</h3>
 
 <img src="./assets/addNewTweet01.png"/>
 <img src="./assets/addNewTweet02.png"/>
 
-- Página de respostas de tweets (Versão mobile)
+<h3 align="center">Página de respostas de tweets (Versão mobile)</h3>
 
 <img src="./assets/responseTweet.png"/>
 
 
 
-
+<br><br>
 ## Como foi desenvolvido 📋
 
 Tecnologias utilizadas
@@ -45,8 +47,8 @@ Tecnologias utilizadas
 
 ## Agradecimentos ❤️
 
-* Rocketseat por promover a masterclass, gratuitamente.
-* Diego Fernandes por ter ministrado a aula.
+[Rocketseat](https://github.com/Rocketseat) por promover a masterclass, gratuitamente.
+[Diego Fernandes](https://github.com/diego3g) por ter ministrado a aula.
 
 
 

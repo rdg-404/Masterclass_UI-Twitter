@@ -1,7 +1,7 @@
 # Template Twitter
 Projeto desenvolvido durante a masterclass, disponibilizada pela Rocketseat.
 
-## Como executar a aplicação
+## Como executar a aplicação ⚙️
 
 - Executar os seguintes comandos...
 
@@ -16,7 +16,7 @@ Projeto desenvolvido durante a masterclass, disponibilizada pela Rocketseat.
 - Para executar a aplicação
 
 
-## O que foi desenvolvido 
+## O que foi desenvolvido 🚀
 Página inicial do twitter, página de responder tweets, além da versão mobile 
 
 - Página inicial (Versão desktop)
@@ -35,7 +35,7 @@ Página inicial do twitter, página de responder tweets, além da versão mobile
 
 
 
-## Como foi desenvolvido
+## Como foi desenvolvido 📋
 
 Tecnologias utilizadas
 - ReactJS
@@ -43,24 +43,19 @@ Tecnologias utilizadas
 - VsCode
 
 
+## Agradecimentos ❤️
 
-
-
-
-
-
-
-
-
-
-
+* Rocketseat por promover a masterclass, gratuitamente.
+* Diego Fernandes por ter ministrado a aula.
 
 
 
 Layout figma [here](https://www.figma.com/file/4JXgzLf4GpIuvV6GGXNwiN/Twitter-UI-(Community)?node-id=1%3A937&t=gfmieQAcbbBHbMdN-0)
 
 
+<br><br><br><br>
 
+Não liga, são minhas anotações 😊
 
 * Fluxo de renderização: <br><br><br>
 

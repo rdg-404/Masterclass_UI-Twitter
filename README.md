@@ -1,4 +1,5 @@
 <h1 align="center">Template Twitter</h1>
+
 ### Projeto desenvolvido durante a masterclass, disponibilizada pela Rocketseat.
 
 <br><br>

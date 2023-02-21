@@ -50,7 +50,7 @@ Página inicial do twitter, página de responder tweets, além da versão mobile
 
 ## Agradecimentos ❤️
 
-[Rocketseat](https://github.com/Rocketseat) por promover a masterclass, gratuitamente.
+[Rocketseat](https://github.com/Rocketseat) por promover a masterclass, gratuitamente. <br>
 [Diego Fernandes](https://github.com/diego3g) por ter ministrado a aula.
 
 

@@ -4,7 +4,7 @@ Projeto desenvolvido durante a masterclass, disponibilizada pela Rocketseat.
 <br><br>
 ## Como executar a aplicação ⚙️
 
-- Executar os seguintes comandos...
+### Executar os seguintes comandos...
 
 ``` js
   npm install

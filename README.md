@@ -41,7 +41,7 @@ Página inicial do twitter, página de responder tweets, além da versão mobile
 <br><br>
 ## Como foi desenvolvido 📋
 
-Tecnologias utilizadas
+### Tecnologias utilizadas
 - ReactJS
 - Vite
 - VsCode

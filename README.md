@@ -26,13 +26,15 @@ Página inicial do twitter, página de responder tweets, além da versão mobile
 <img src="./assets/desktop.png"/>
 
 <h3 align="center">Enviando Tweet... (Versão mobile)</h3>
+<div align="center"><img src="./assets/addNewTweet01.png"/></div>
 
-<img src="./assets/addNewTweet01.png"/>
-<img src="./assets/addNewTweet02.png"/>
+<div align="center"><img src="./assets/addNewTweet02.png"/></div>
+
 
 <h3 align="center">Página de respostas de tweets (Versão mobile)</h3>
 
-<img src="./assets/responseTweet.png"/>
+<div align="center"><img src="./assets/responseTweet.png"/></div>
+
 
 
 

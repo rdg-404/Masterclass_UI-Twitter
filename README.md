@@ -1,5 +1,5 @@
 # Template Twitter
-Projeto desenvolvido durante a masterclass, disponibilizada pela Rocketseat.
+### Projeto desenvolvido durante a masterclass, disponibilizada pela Rocketseat.
 
 <br><br>
 ## Como executar a aplicação ⚙️
